@@ -1,0 +1,96 @@
+SET
+CREATE TABLE
+ALTER TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+ALTER TABLE
+ALTER TABLE
+CREATE TABLE
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+DROP TABLE
+ALTER TABLE
+CREATE TABLE
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+name|street_number|street_name|telephone
+Bytes of China|2020|Busy Street|6175551212
+(1 row)
+best_rating
+5.0
+(1 row)
+dish_name|price|category
+Beef with Garlic Sauce|$8.95|Luncheon Specials
+Chicken Wings|$6.95|Chicken
+Chicken with Broccoli|$6.95|Chicken
+Chicken with Broccoli|$8.95|Luncheon Specials
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|Luncheon Specials
+Hunan Special Half & Half|$17.95|House Specials
+Sesame Chicken|$15.95|House Specials
+Special Minced Chicken|$16.95|House Specials
+(8 rows)
+category|dish_name|price
+Chicken|Chicken with Broccoli|$6.95
+Chicken|Chicken Wings|$6.95
+House Specials|Hunan Special Half & Half|$17.95
+House Specials|Sesame Chicken|$15.95
+House Specials|Special Minced Chicken|$16.95
+Luncheon Specials|Chicken with Broccoli|$8.95
+Luncheon Specials|Beef with Garlic Sauce|$8.95
+Luncheon Specials|Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+(8 rows)
+category|dish_name|price
+Chicken|Chicken with Broccoli|$6.95
+Chicken|Chicken Wings|$6.95
+House Specials|Hunan Special Half & Half|$17.95
+House Specials|Sesame Chicken|$15.95
+House Specials|Special Minced Chicken|$16.95
+Luncheon Specials|Chicken with Broccoli|$8.95
+Luncheon Specials|Beef with Garlic Sauce|$8.95
+Luncheon Specials|Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+(8 rows)
+spicy_dish_name|category|price
+Beef with Garlic Sauce|Luncheon Specials|$8.95
+Chicken Wings|Chicken|$6.95
+Hunan Special Half & Half|House Specials|$17.95
+(3 rows)
+dish_id|count
+3|1
+5|1
+4|1
+6|1
+7|1
+1|2
+8|1
+(7 rows)
+dish_id|count
+1|2
+(1 row)
+dish_name|dish_count
+Chicken with Broccoli|2
+(1 row)
+best_rating|description
+5.0|Would love to host another birthday party at Bytes of China!
+(1 row)
